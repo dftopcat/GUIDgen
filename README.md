@@ -1,0 +1,2 @@
+# GUIDgen
+Generates GUIDs
