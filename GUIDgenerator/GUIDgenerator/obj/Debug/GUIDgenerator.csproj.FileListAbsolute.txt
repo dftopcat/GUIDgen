@@ -1,0 +1,16 @@
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\bin\Debug\GUIDgenerator.exe.config
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\bin\Debug\GUIDgenerator.exe
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\bin\Debug\GUIDgenerator.pdb
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.csproj.AssemblyReference.cache
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.GUIDgen.resources
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.Properties.Resources.resources
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.csproj.GenerateResource.cache
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.exe
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.pdb
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\bin\Debug\GUIDgenerator.exe.manifest
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\bin\Debug\GUIDgenerator.application
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.TrustInfo.xml
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.exe.manifest
+C:\Users\codin\source\repos\GUIDgenerator\GUIDgenerator\obj\Debug\GUIDgenerator.application
